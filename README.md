@@ -1,6 +1,6 @@
 # Wheather_GUI_Py
 
-**Simple GUI made with help of python tkinter package and OpenWeatherMap API which shows real time weather**
+***Simple GUI made with help of python tkinter package and OpenWeatherMap API which shows real time weather***
 
 <img src="https://user-images.githubusercontent.com/53565563/123546937-519b9780-d77c-11eb-86d9-7faf84846712.gif" width="100%"></img>
 
